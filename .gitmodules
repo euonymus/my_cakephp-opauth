@@ -1,3 +1,12 @@
 [submodule "Vendor/Opauth"]
 	path = Vendor/Opauth
 	url = git://github.com/opauth/opauth.git
+[submodule "Strategy/Google"]
+	path = Strategy/Google
+	url = https://github.com/opauth/google.git
+[submodule "Strategy/Facebook"]
+	path = Strategy/Facebook
+	url = https://github.com/opauth/facebook.git
+[submodule "Strategy/Twitter"]
+	path = Strategy/Twitter
+	url = https://github.com/opauth/twitter.git
